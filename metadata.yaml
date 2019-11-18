@@ -1,0 +1,27 @@
+_repo: The-History-of-the-Standard-Oil-Company_60692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarbell, Ida M. (Ida Minerva)
+    alias: Tarbell, Ida Minerva
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '4022'
+    url: http://www.gutenberg.org/2009/agents/4022
+    wikipedia: http://en.wikipedia.org/wiki/Ida_M._Tarbell
+description: ''
+gutenberg_issued: '2019-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Standard Oil Company -- History'
+- !lcc 'HD'
+- !lcsh 'Petroleum industry and trade -- United States -- History'
+- GITenberg
+title: The History of the Standard Oil Company
+url: http://www.gutenberg.org/ebooks/60692
